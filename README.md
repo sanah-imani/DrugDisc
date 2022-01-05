@@ -13,7 +13,7 @@ The file containing all smiles generated has not been attached due to size.
 
 <ol>
   <li> Type of Recurrent Neural Network that have feedback loops allowing information to persist within the system. </li>
-  <li> Captures long-term dependencies: Samples the categorical distribution of the next object <\li>
-  <li> Input Sequence Data -> Compressed representation <\li>
-<\ol>
+  <li> Captures long-term dependencies: Samples the categorical distribution of the next object </li>
+  <li> Input Sequence Data -> Compressed representation </li>
+</ol>
 ![image](https://user-images.githubusercontent.com/29833463/148157318-e39061e1-5729-4649-bec8-fb037e07771a.png)
