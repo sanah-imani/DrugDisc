@@ -16,4 +16,6 @@ The file containing all smiles generated has not been attached due to size.
   <li> Captures long-term dependencies: Samples the categorical distribution of the next object </li>
   <li> Input Sequence Data -> Compressed representation </li>
 </ol>
-![image](https://user-images.githubusercontent.com/29833463/148157318-e39061e1-5729-4649-bec8-fb037e07771a.png)
+
+![image](https://user-images.githubusercontent.com/29833463/148158380-5301a436-2528-4c95-a223-f5c0d7bfac44.png)
+
