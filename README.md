@@ -19,3 +19,10 @@ The file containing all smiles generated has not been attached due to size.
 
 ![image](https://user-images.githubusercontent.com/29833463/148158380-5301a436-2528-4c95-a223-f5c0d7bfac44.png)
 
+<b> Results </b>
+
+Model trained for approximately 100 epochs. Produced around 150 valid SMILES.
+
+Used rdkit sanitization methods to isolate sensible compounds and making modifications using chemical statistics.
+
+Sampled 10 random compounds.
